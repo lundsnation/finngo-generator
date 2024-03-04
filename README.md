@@ -1,0 +1,1 @@
+# finngo-generator
